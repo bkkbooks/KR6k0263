@@ -1,0 +1,92 @@
+canonical_identifier: bkk:krp/KR6k0263/v1
+canonical_location: https://kanripo.org/bkk/KR6k0263/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 體仁要術
+  identifiers:
+    alt_id:
+    - X60n1139
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X60/X60n1139.xml
+    old_id: X60n1139
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0263_000.yaml, hash: 'sha256:c66010c4125548284314030ff43b8fe12915b5adfd54f844c1c66d8c01e8bc2e'}
+  - {seq: 1, filename: KR6k0263_001.yaml, hash: 'sha256:666e24766eb7764c8bb04bdf5ceb85ce7d5e25384fdf98131d0b757e51b0cc1d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0263_001.markers.yaml, hash: 'sha256:2b6e8ec5f03ce8a42552374c3229f570edac9dc5d1dc12799d9ce1beb4083803'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0263_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2725
+  label: 體仁要術一卷
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0263_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 文星閣重整放生會引
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0263_X_001-mulu-2
+    span:
+    - body
+    - 976
+    - 976
+  label: 文星閣建放生會疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0263_X_001-mulu-3
+    span:
+    - body
+    - 1845
+    - 1845
+  label: 放生會回向文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0263_X_001-mulu-4
+    span:
+    - body
+    - 2046
+    - 2046
+  label: 南園放生池󳬴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0263_X_001-mulu-5
+    span:
+    - body
+    - 2540
+    - 2540
+  label: 彭氏放生池󳬴
+  type: mulu
+  level: 1
+hash: sha256:6753aa2d9d3eee5abea5a7219001a2bb7c4a342747ab8ed89a9a216edce6c699
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

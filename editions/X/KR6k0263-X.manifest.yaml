@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR6k0263/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0263/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 體仁要術
+  identifiers:
+    krp: KR6k0263
+    cbeta: X60n1139
+    cbeta_old_id: X60n1139
+    authorityid: CA0003225
+    json_key: X1139
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X60/X60n1139.xml
+    old_id: X60n1139
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0263_000-X.yaml, hash: 'sha256:c66010c4125548284314030ff43b8fe12915b5adfd54f844c1c66d8c01e8bc2e'}
+  - {seq: 1, filename: KR6k0263_001-X.yaml, hash: 'sha256:96100a6532dc56f9782d72e87b3a92bd6fcf2a4ffe4dc0bd72409ab5e2ec44b1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0263_000-X.markers.yaml, hash: 'sha256:f3db4155cc0029e0ac42877c9af37df69da661d87c59aed2a36b8fc6180826cc'}
+  - {seq: 1, role: markers, filename: assets/KR6k0263_001-X.markers.yaml, hash: 'sha256:b490db2d8271a8a36af35488ab5022845e14ce4129cd7d23a024a35a1bded6f3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0263_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2725
+  label: 體仁要術一卷
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0263_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 文星閣重整放生會引
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0263_X_001-mulu-2
+    span:
+    - body
+    - 976
+    - 976
+  label: 文星閣建放生會疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0263_X_001-mulu-3
+    span:
+    - body
+    - 1845
+    - 1845
+  label: 放生會回向文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0263_X_001-mulu-4
+    span:
+    - body
+    - 2046
+    - 2046
+  label: 南園放生池󳬴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0263_X_001-mulu-5
+    span:
+    - body
+    - 2540
+    - 2540
+  label: 彭氏放生池󳬴
+  type: mulu
+  level: 1
+hash: sha256:2a56fd41db6702387051a3c80b03c90c720fdcf0006281d43c1204fee182c139

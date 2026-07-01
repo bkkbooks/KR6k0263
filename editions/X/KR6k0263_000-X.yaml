@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0263/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 體仁要術
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X60/X60n1139.xml
+    old_id: X60n1139
+hash: sha256:c66010c4125548284314030ff43b8fe12915b5adfd54f844c1c66d8c01e8bc2e
