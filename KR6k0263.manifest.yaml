@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0263_000.yaml, hash: 'sha256:c66010c4125548284314030ff43b8fe12915b5adfd54f844c1c66d8c01e8bc2e'}
-  - {seq: 1, filename: KR6k0263_001.yaml, hash: 'sha256:666e24766eb7764c8bb04bdf5ceb85ce7d5e25384fdf98131d0b757e51b0cc1d'}
+  - {seq: 1, filename: KR6k0263_001.yaml, hash: 'sha256:96100a6532dc56f9782d72e87b3a92bd6fcf2a4ffe4dc0bd72409ab5e2ec44b1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0263_001.markers.yaml, hash: 'sha256:2b6e8ec5f03ce8a42552374c3229f570edac9dc5d1dc12799d9ce1beb4083803'}
+  - {seq: 0, role: markers, filename: assets/KR6k0263_000.markers.yaml, hash: 'sha256:45532962db3a3bac85204e5da31beec1f72b9c899e61dd16f0014e2894402537'}
+  - {seq: 1, role: markers, filename: assets/KR6k0263_001.markers.yaml, hash: 'sha256:53acf4c15366244eb931a72dfa2dadc7120d7595119f65cf9705eb315be7e9cf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -86,7 +87,4 @@ table_of_contents:
   label: 彭氏放生池󳬴
   type: mulu
   level: 1
-hash: sha256:6753aa2d9d3eee5abea5a7219001a2bb7c4a342747ab8ed89a9a216edce6c699
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b62134b3c0692998f16475635634e2bbb1434d168b0d03fe310df4b119398150
